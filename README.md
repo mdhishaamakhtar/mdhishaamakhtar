@@ -19,10 +19,12 @@ Outside of work, I explore the intersection of **technology, human behavior, and
 - **[Iris](https://github.com/GDGVIT/iris-web-backend):** Wikipedia link traversal tool
 - **[Sociocredz](https://github.com/TeamRekursion/sociocredz-backend):** Reward point donation for NGOs
 - **[Keats](https://github.com/GDGVIT/keats-android):** A social app for book lovers
+- **[JuryDuty](https://github.com/mdhishaamakhtar/jury-duty):** A scalable data labeling platform
 
 ---
 
 ### ✍️ Writing
+- [What Revisiting a College Project Taught Me About Growth as an Engineer](https://medium.com/@mdhishaamakhtar/what-revisiting-a-college-project-taught-me-about-growth-as-an-engineer-8302b385f5f2)
 - [Which Backend Stack Should You Learn?](https://medium.com/gdg-vit/which-backend-stack-should-you-learn-e4935dfe81bd)
 - [Building a Data Lake on GCP](https://tech.groww.in/building-a-data-lake-on-google-cloud-platform-98634fa3d66f)
 
