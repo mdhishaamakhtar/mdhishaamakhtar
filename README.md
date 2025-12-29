@@ -20,6 +20,7 @@ Outside of work, I explore the intersection of **technology, human behavior, and
 - **[Sociocredz](https://github.com/TeamRekursion/sociocredz-backend):** Reward point donation for NGOs
 - **[Keats](https://github.com/GDGVIT/keats-android):** A social app for book lovers
 - **[JuryDuty](https://github.com/mdhishaamakhtar/jury-duty):** A scalable data labeling platform
+- **[Nexia](https://github.com/mdhishaamakhtar/nexia):** A Personal Digital Slambook
 
 ---
 
