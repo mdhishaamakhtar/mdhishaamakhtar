@@ -39,9 +39,9 @@ Outside of work, I explore the intersection of **technology, human behavior, and
 ---
 
 ### 🔗 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdhishaamakhtar-blue?logo=linkedin)](https://www.linkedin.com/in/mdhishaamakhtar/)
-[![GitHub](https://img.shields.io/badge/GitHub-%40mdhishaamakhtar-181717?logo=github)](https://github.com/mdhishaamakhtar)
-[![Email](https://img.shields.io/badge/Email-hishaamakhtar2001.mha@gmail.com-darkgreen)](mailto:hishaamakhtar2001.mha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdhishaamakhtar-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mdhishaamakhtar/)
+[![GitHub](https://img.shields.io/badge/GitHub-%40mdhishaamakhtar-181717?logo=github&style=for-the-badge)](https://github.com/mdhishaamakhtar)
+[![Email](https://img.shields.io/badge/Email-hishaamakhtar2001.mha@gmail.com-darkgreen?style=for-the-badge)](mailto:hishaamakhtar2001.mha@gmail.com)
 
 ---
 
