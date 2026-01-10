@@ -15,12 +15,12 @@ Outside of work, I explore the intersection of **technology, human behavior, and
 ---
 
 ### 🧪 Side Projects
-- **[Hermes](https://github.com/GDGVIT/live-poll):** WebSocket-based live polling platform
 - **[Iris](https://github.com/GDGVIT/iris-web-backend):** Wikipedia link traversal tool
+- **[Nexia](https://github.com/mdhishaamakhtar/nexia):** A Personal Digital Slambook
+- **[JuryDuty](https://github.com/mdhishaamakhtar/jury-duty):** A scalable data labeling platform
+- **[Hermes](https://github.com/GDGVIT/live-poll):** WebSocket-based live polling platform
 - **[Sociocredz](https://github.com/TeamRekursion/sociocredz-backend):** Reward point donation for NGOs
 - **[Keats](https://github.com/GDGVIT/keats-android):** A social app for book lovers
-- **[JuryDuty](https://github.com/mdhishaamakhtar/jury-duty):** A scalable data labeling platform
-- **[Nexia](https://github.com/mdhishaamakhtar/nexia):** A Personal Digital Slambook
 
 ---
 
