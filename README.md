@@ -17,7 +17,7 @@ Outside of work, I explore the intersection of **technology, human behavior, and
 ### 🧪 Side Projects
 - **[Iris](https://github.com/GDGVIT/iris-web-backend):** Wikipedia link traversal tool
 - **[Nexia](https://github.com/mdhishaamakhtar/nexia):** A Personal Digital Slambook
-- **[java2Go](https://github.com/mdhishaamakhtar/nexia):** Learning Resource For Go Through Java Concepts
+- **[java2Go](https://github.com/mdhishaamakhtar/java2go):** Learning Resource For Go Through Java Concepts
 - **[JuryDuty](https://github.com/mdhishaamakhtar/jury-duty):** A scalable data labeling platform
 - **[Hermes](https://github.com/GDGVIT/live-poll):** WebSocket-based live polling platform
 - **[Sociocredz](https://github.com/TeamRekursion/sociocredz-backend):** Reward point donation for NGOs
