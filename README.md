@@ -7,8 +7,8 @@ I’m a backend engineer who loves building thoughtful systems, expressive tools
 Outside of work, I explore the intersection of **technology, human behavior, and social good** — particularly how AI might support **addiction recovery**, **mental health**, and **education equity**.  
 
 🛠️ You’ll find me working on:
-- 🧠 Real-time platforms (Kafka, WebSockets, Pinot)
-- 📊 Data pipelines & infra (Spark, Trino, GCP)
+- 🧠 Distributed Systems (Kafka, Redis)
+- 📊 Big data pipelines & infra (Spark, Trino, Pinot)
 - 💡 Creative hackathon projects with social impact
 - 🌈 Queer-inclusive tech advocacy
 
