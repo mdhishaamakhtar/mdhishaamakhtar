@@ -19,7 +19,7 @@ Outside of work, I explore the intersection of **technology, human behavior, and
 - **[Nexia](https://github.com/mdhishaamakhtar/nexia):** A Personal Digital Slambook
 - **[java2go](https://github.com/mdhishaamakhtar/java2go):** Learning Resource For Go Through Java Concepts
 - **[JuryDuty](https://github.com/mdhishaamakhtar/jury-duty):** A scalable data labeling platform
-- **[Hermes](https://github.com/GDGVIT/live-poll):** WebSocket-based live polling platform
+- **[Hermes](https://github.com/mdhishaamakhtar/hermes):** WebSocket-based live polling platform
 - **[Sociocredz](https://github.com/TeamRekursion/sociocredz-backend):** Reward point donation for NGOs
 - **[Keats](https://github.com/GDGVIT/keats-android):** A social app for book lovers
 
