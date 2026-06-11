@@ -15,6 +15,7 @@ Outside of work, I explore the intersection of **technology, human behavior, and
 ---
 
 ### 🧪 Side Projects
+- **[Hatch](https://github.com/mdhishaamakhtar/hatch):** High-scale future email scheduler
 - **[Iris](https://github.com/GDGVIT/iris-web-backend):** Wikipedia link traversal tool
 - **[Nexia](https://github.com/mdhishaamakhtar/nexia):** A Personal Digital Slambook
 - **[java2go](https://github.com/mdhishaamakhtar/java2go):** Learning Resource For Go Through Java Concepts
