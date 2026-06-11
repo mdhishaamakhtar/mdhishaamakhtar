@@ -15,14 +15,15 @@ Outside of work, I explore the intersection of **technology, human behavior, and
 ---
 
 ### 🧪 Side Projects
-- **[Hatch](https://github.com/mdhishaamakhtar/hatch):** Fault-tolerant engine for scheduling emails at arbitrary delays — timer wheel on bbolt, Kafka-driven delivery, never silently drops a job
-- **[Iris](https://github.com/GDGVIT/iris-web-backend):** Finds the shortest link path between any two Wikipedia articles using Redis-backed BFS and Celery workers
-- **[Hermes](https://github.com/mdhishaamakhtar/hermes):** Real-time quiz & polling platform for live events — Spring Boot with STOMP-over-WebSockets for low-latency host/player sync
-- **[Nexia](https://github.com/mdhishaamakhtar/nexia):** AI digital slambook — store rich profiles of your people and query them in natural language via pgvector RAG + Gemini
-- **[java2go](https://github.com/mdhishaamakhtar/java2go):** Learn Go through the Java concepts you already know — syntax, idioms, and concurrency mapped side by side
-- **[JuryDuty](https://github.com/mdhishaamakhtar/jury-duty):** Conflict-free multi-contributor data labeling on Supabase, with research-ready outputs for IRR and bias analysis
-- **[Sociocredz](https://github.com/TeamRekursion/sociocredz-backend):** Donate unused loyalty points to NGOs — micro-philanthropy through a lightweight Node.js backend
-- **[Keats](https://github.com/GDGVIT/keats-android):** Turns reading social — Firebase-powered book clubs with real-time annotations and page-synced discussions
+- **[Hatch](https://github.com/mdhishaamakhtar/hatch):** High-scale email scheduler that never drops a job
+- **[Iris](https://github.com/GDGVIT/iris-web-backend):** Shortest link path between any two Wikipedia articles
+- **[Hermes](https://github.com/mdhishaamakhtar/hermes):** Real-time quiz & polling over WebSockets
+- **[Nexia](https://github.com/mdhishaamakhtar/nexia):** AI digital slambook for your people
+- **[java2go](https://github.com/mdhishaamakhtar/java2go):** Learn Go through Java concepts you know
+- **[JuryDuty](https://github.com/mdhishaamakhtar/jury-duty):** Conflict-free multi-contributor data labeling
+- **[Sociocredz](https://github.com/TeamRekursion/sociocredz-backend):** Donate unused loyalty points to NGOs
+- **[Keats](https://github.com/GDGVIT/keats-android):** Social reading with page-synced discussions
+
 
 ---
 
